@@ -52,7 +52,7 @@ Participate in eco-friendly fashion initiatives by recycling clothes for rewards
 
 To get started with Fashion Sensei, follow these steps:
 
-1. **Download the Myntra App**: Available on the [App Store](https://www.apple.com/app-store/) and [Google Play](https://play.google.com/store).
+1. **Download the Myntra App**: Available on the [App Store](https://www.apple.com/app-store/) and [Google Play](https://play.google.com/store) or go to [Myntra Website](https://www.myntra.com/).
 2. **Create an Account**: Sign up or log in to your Myntra account.
 3. **Access Fashion Sensei**: Navigate to the Fashion Sensei section within the app.
 4. **Personalize Your Experience**: Input your style preferences, body measurements, and occasion details.
